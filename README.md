@@ -1,1 +1,1 @@
-- Fazendo testes com o JS.
+- Praticando com o JS.
